@@ -1,2 +1,2 @@
 # Data analysing tools
-#Tools: linear regression, decision trees, k-means...
+#Tools: linear regression, decision trees, k-means
