@@ -1,2 +1,2 @@
-# Data Analysing tools
-#Tools: linear regression, decision trees, k-means
+# Data Analysing (Machine Learning) tools  
+Collection of functionalities from CoureWork and Competitions
