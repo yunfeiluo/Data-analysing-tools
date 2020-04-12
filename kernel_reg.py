@@ -3,10 +3,9 @@ import matplotlib.pyplot as plt
 import model_train as mt
 
 # ---------------------------------------------------------------- 
-# Machine Learning Homework 3
-#
 # File_name: kernel_reg
 # Functionality: all the functions for my Handwrite kernel ridge regression
+# Include: Polynomial and Trignometric order expansion
 # Author: Yunfei Luo
 # Start date: EST Mar.29th.2020
 # Last update: EST Mar.29th.2020
